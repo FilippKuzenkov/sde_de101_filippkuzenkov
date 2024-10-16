@@ -1,0 +1,14 @@
+Key responsibilities:
+- Move data between systems: Data engineers extract, transform, and load (ETL) data between different systems, using tools like Pandas, Spark, and Kafka.
+
+- Manage data warehouse: They ensure data is properly modeled for analysis, optimize warehouse performance, and maintain data quality using frameworks like dbt and tools like Snowflake or BigQuery.
+
+- Schedule, execute, and monitor data pipelines: Engineers are responsible for running ETL pipelines on schedules, scaling them, monitoring for failures, and managing metadata with tools such as Airflow and AWS Glue.
+
+- Serve data to end-users: They provide data to analysts, applications, and clients via dashboards, APIs, or data dumps, using tools like Tableau, Looker, and Python for APIs.
+
+- Data strategy for the company: Data engineers shape the company's data strategy by deciding what data to collect, how to store it securely, and educating users on its effective use.
+
+- Deploy ML models to production: They optimize machine learning models for production, setting up pipelines for training/inference and monitoring model performance with tools like AWS MLOps.
+
+(varies due to company scale etc)
