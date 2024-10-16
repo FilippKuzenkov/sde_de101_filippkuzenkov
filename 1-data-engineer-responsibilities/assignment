@@ -1,0 +1,32 @@
+6 Data Analyst Key Features (my opinion)
+1. Collect and Organize Data  
+   - Collaborate with stakeholders to define data needs (e.g., sales figures, customer behavior).  
+   - Pull data from multiple internal and external sources such as databases, APIs, surveys, or spreadsheets.  
+   - Clean and organize raw data by removing duplicates, correcting errors, and structuring it for further analysis.  
+
+2. Explore and Analyze Data  
+   - Perform exploratory data analysis (EDA) to identify trends, correlations, and patterns in the data.  
+   - Use descriptive statistics to summarize data (mean, median, standard deviation) and assess its distribution.  
+   - Apply advanced techniques like regression analysis, clustering, and hypothesis testing to answer specific business questions.  
+
+3. Visualize Data and Build Dashboards   
+   - Create charts, graphs, and tables to visually represent trends and key metrics.  
+   - Design interactive dashboards for real-time monitoring of KPIs (Key Performance Indicators).  
+   - Tailor visualizations for specific audiences, such as executives or operational teams.  
+
+4. Interpret and Report Insights  
+   - Identify key takeaways from the data that align with business objectives (e.g., improved sales performance in a specific region).  
+   - Write detailed reports or presentations explaining the analysis and its implications.  
+   - Collaborate with teams to provide recommendations based on the analysis (e.g., adjusting marketing strategies or optimizing product offerings).  
+
+5. Support Data-Driven Decision Making  
+
+   - Run ad hoc analyses to answer specific questions posed by different departments.  
+   - Provide data-driven recommendations to improve operational efficiency, increase customer satisfaction, or reduce costs.  
+   - Analyze historical performance data to help forecast future trends and outcomes, supporting long-term planning.  
+
+6. Ensure Data Quality and Accuracy  
+   - Validate data to ensure there are no errors, missing values, or inconsistencies.  
+   - Establish data governance practices to maintain data integrity (e.g., defining data entry standards or automating validation processes).  
+   - Collaborate with data engineers to ensure the data pipeline is clean, and data from various sources is properly integrated.  
+
